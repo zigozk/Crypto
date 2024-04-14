@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\zigo\Desktop\labbb\client\main.cpp(73,23): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+C:\Users\zigo\Desktop\labbb\client\main.cpp(73,23): message : 此参数用作缓冲区大小
+C:\Users\zigo\Desktop\labbb\client\main.cpp(73,23): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+C:\Users\zigo\Desktop\labbb\client\main.cpp(73,23): message : 此参数用作缓冲区大小
+C:\Users\zigo\Desktop\labbb\client\main.cpp(105,127): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(134,100): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(142,127): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(206,127): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(225,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(231,127): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(257,100): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(264,100): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(307,10): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+C:\Users\zigo\Desktop\labbb\client\main.cpp(349,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  client.vcxproj -> C:\Users\zigo\Desktop\labbb\client\x64\Debug\client.exe
